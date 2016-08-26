@@ -1,0 +1,13 @@
+<manifest>
+    <main-class>com.brandon.bots.testbot.testbot</main-class>
+    <name>Test bot</name>
+    <description>test bot</description>
+    <version>0.0.1</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+    <categories>
+        <category>WOODCUTTING</category>
+    </categories>
+</manifest>
